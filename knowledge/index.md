@@ -8,3 +8,4 @@ okf_version: "0.2"
 * [The governance ladder](governance-ladder.md) - Level 0 works immediately; a project climbs only as far as its domain needs.
 * [Refund policy](refunds.md) - Customers may return unused items within 30 days with a receipt, while faulty goods are exempt from the return window.
 * [Surfaces](surfaces/)
+* [Sales pipeline for large-company sales](sales-pipeline.md) - A practical sales pipeline framework for winning deals with larger companies, from account selection to close and onboarding.

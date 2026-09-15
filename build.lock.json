@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "build_id": "sha256:10aeb5a273d789bc3aa0dbc8eac773f31ae9b63d8693642ddaaf2931dcc834ea",
+  "build_id": "sha256:75222d6bc22a2e397aa8a250515d287f29189110becf39660ce83398a8af925f",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
@@ -8,8 +8,8 @@
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
   "source_commit": "53d77949c64a2638f45938770ec36bbdb67b26bf",
-  "dirty": false,
-  "as_of": "2026-09-13T14:58:19.109Z",
+  "dirty": true,
+  "as_of": "2026-09-15T10:46:57.135Z",
   "drafts": "hidden",
   "instance_sha256": "472cacdc941cc665591623da2c560fa8fdbe326be8d21f5ff1d314dd58116f7f",
   "policy_sha256": "384f6c196502e5ac26ab53e88905b1da39e99c488ab32c8ebe9f05a532f06707",
@@ -38,12 +38,25 @@
     },
     {
       "path": "refunds.md",
-      "sha256": "a41d6d8d03aa647723af883b168efa5701c4ea3cf94b99984ab3de0b97ad78b1",
-      "status": "draft",
+      "sha256": "4668af71a237f4bb77190c8f102bfa3e3e2feabccf50c450ab8f504d3653543f",
+      "status": "stable",
       "audience": [
         "public"
       ],
-      "admitted": []
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "sales-pipeline.md",
+      "sha256": "bb9f7b069570f69d6ee85d3eb1416af721417eb2267e73ff306d9d1b6dd1ef5b",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
     },
     {
       "path": "surfaces/for-agents.md",
@@ -100,7 +113,7 @@
   "indexes": [
     {
       "path": "index.md",
-      "sha256": "c644618b07d9eb73415ce442fb01654f95f20b7825ef39d99f314321fb639241"
+      "sha256": "a406035f3f3d773693db1a06653bedf5bdf4d3c04743591963a4aa7eafbed9f8"
     },
     {
       "path": "surfaces/index.md",
@@ -110,8 +123,8 @@
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "fb45dbe7e38f34b1791a68437a139ebf1c74119049335a8234132cac056a0d17",
-      "files": 8
+      "sha256": "7e5e61b8d76c248b3de6fa259cb0be09b4353af14a8d0b8861b4de6cea710738",
+      "files": 10
     }
   ]
 }
