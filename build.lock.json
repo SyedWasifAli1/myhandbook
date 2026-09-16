@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "build_id": "sha256:75222d6bc22a2e397aa8a250515d287f29189110becf39660ce83398a8af925f",
+  "build_id": "sha256:9e9bb762393e716566feca148a1224dd6f0944cef2b435016fe5be845dfdf964",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
     "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
-  "source_commit": "53d77949c64a2638f45938770ec36bbdb67b26bf",
+  "source_commit": "f38f5a1ac6ac8c6cd6dc0fafda210f1e0dad113d",
   "dirty": true,
-  "as_of": "2026-09-15T10:46:57.135Z",
+  "as_of": "2026-09-16T08:55:59.613Z",
   "drafts": "hidden",
   "instance_sha256": "472cacdc941cc665591623da2c560fa8fdbe326be8d21f5ff1d314dd58116f7f",
   "policy_sha256": "384f6c196502e5ac26ab53e88905b1da39e99c488ab32c8ebe9f05a532f06707",
@@ -92,6 +92,61 @@
       ]
     },
     {
+      "path": "wasif-style-cooking-recipe/aloo-gosht.md",
+      "sha256": "c9a140f4293038edadc84bceb043d1c062942bae48c7899fa0c82d355e5a6e4a",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "wasif-style-cooking-recipe/beef-pulao.md",
+      "sha256": "40a9ddd7214cfd5a181ec9e69de5901ffeb4247cc9f4058b66b09bc08960dfe6",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "wasif-style-cooking-recipe/chicken-biryani.md",
+      "sha256": "167c01db85de18f2e35c3f45ebeaaab71266efbb5f697030edfbb6191b23fceb",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "wasif-style-cooking-recipe/chicken-karahi.md",
+      "sha256": "cbd595281b55e414651734c251acb685e2a03efe363b0fdd8c5ff62fc8f47ed7",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "wasif-style-cooking-recipe/chicken-qorma.md",
+      "sha256": "7cf255fd2c8a39089e66d08706d31b4e45b2199187688b1c4625d8ece9edf70c",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
       "path": "what-is-a-ksor.md",
       "sha256": "2b2139295ff479719bcd02c7ba5eda6ea39d408c34ee4cb7bd6528ff7f1b90e4",
       "status": "stable",
@@ -113,18 +168,22 @@
   "indexes": [
     {
       "path": "index.md",
-      "sha256": "a406035f3f3d773693db1a06653bedf5bdf4d3c04743591963a4aa7eafbed9f8"
+      "sha256": "4c0afde7af7a7f2cd509be3477f415734966ac06c2dff4434ef115cfb20fb4b9"
     },
     {
       "path": "surfaces/index.md",
       "sha256": "e82913fbd744929824ec494cd87d50d1451856df0d7d321d51df2b7be773314c"
+    },
+    {
+      "path": "wasif-style-cooking-recipe/index.md",
+      "sha256": "ab88d82d8d47a6ead3f61e4222292acae166d4921a2c7d69ff0ce431a799e67f"
     }
   ],
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "7e5e61b8d76c248b3de6fa259cb0be09b4353af14a8d0b8861b4de6cea710738",
-      "files": 10
+      "sha256": "8669e9d90c1352387d70414eb0d3a522ae28361f18f8e07e9698cbd3265c1923",
+      "files": 16
     }
   ]
 }
